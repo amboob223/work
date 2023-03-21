@@ -1,0 +1,7 @@
+# notes
+
+    - okay in the input tag we put type file and 
+    - we use accept to determinwe whgat type of file we will accept 
+    - the multiple attribute can be added to include multiple files 
+    the html collection files [0] ,esns from the list 
+-formdata is native js and make where we can simpliofy hhttp request a nice way to send form data with js   
