@@ -6,3 +6,7 @@
     the html collection files [0] ,esns from the list 
 -formdata is native js and make where we can simpliofy hhttp request a nice way to send form data with js   
 multer is middle ware that goes in poat 
+
+
+in the action part of the form put the url wit h the api endpoint and in teh button put in the form and 
+the name property of the input tag talks to the server and should have the same name as what we put in the upload.single()
