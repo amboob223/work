@@ -18,10 +18,10 @@
 </head>
 
 <body>
-    <form id="form">
-        <input type="file" id="file" accept=".jpg,jpeg,png"><br>
+    <form id="form" method="POST" action="http:localhost:3001/upload" enctype="multipart/form-data">
+        <input type="file" id="file" name="image" accept=".jpg,jpeg,png"><br>
         <input type="text" id="comments" placeholder="file comments"><br>
-        <button type="submit">file upload</button>
+        <button type="submit" id="btn">file upload</button>
     </form>
 
     <script src="index.js"></script>

@@ -5,3 +5,4 @@
     - the multiple attribute can be added to include multiple files 
     the html collection files [0] ,esns from the list 
 -formdata is native js and make where we can simpliofy hhttp request a nice way to send form data with js   
+multer is middle ware that goes in poat 
